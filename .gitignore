@@ -1,3 +1,7 @@
+# Keil uVision5 files
+*.uvguix
+*.uvoptx
+./Objects/*
 # Prerequisites
 *.d
 
