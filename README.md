@@ -4,3 +4,5 @@ ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™ Evaluation Kit
 
 Uses two MCs, one to capture frames from camera and transmit to second which has display.
 Each uses ESP8266 WiFi module.
+
+Keil uVision5 is used for compilation, debug, and flash
